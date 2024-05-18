@@ -8,9 +8,9 @@ Ps.: as alterações encontram-se presentes na branch atividade.
 
 ## Integrantes 
 
-Andréa Salgado
-Arthur Henrique Pinheiro
-Gabriel Tasso
-Giovana Fernandes
-Mario Celso Zanin
+Andréa Salgado -
+Arthur Henrique Pinheiro -
+Gabriel Tasso -
+Giovana Fernandes -
+Mario Celso Zanin -
 Otávio Alexandre de Camargo
