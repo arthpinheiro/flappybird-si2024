@@ -10,7 +10,6 @@ Ps.: as alterações encontram-se presentes na branch atividade.
 
 Andréa Salgado -
 Arthur Henrique Pinheiro -
-Gabriel Tasso -
 Giovana Fernandes -
 Mario Celso Zanin -
 Otávio Alexandre de Camargo
